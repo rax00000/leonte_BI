@@ -1,2 +1,2 @@
 # leonte_BI
-dunno
+# this doc has been created to learn GIT yeaaaah
